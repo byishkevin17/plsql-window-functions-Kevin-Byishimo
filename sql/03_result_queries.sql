@@ -21,7 +21,7 @@ JOIN transactions t ON c.customer_id = t.customer_id
 GROUP BY c.customer_id, c.name, c.region
 ORDER BY total_revenue DESC;
 
--- Interpretation: 
+-- Interpretation: Basic
 --
 
 -- =============================================================================
