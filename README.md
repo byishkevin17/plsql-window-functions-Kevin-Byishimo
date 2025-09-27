@@ -31,3 +31,18 @@
 
 > These functions facilitate the measurement of **month-over-month growth**, highlighting performance trends and the impact of business initiatives.
 >
+
+![ER diagram](screenshots/01_transactions_table_has_relationship_to_all_table.png)
+<!--   ![ message ](screenshots/)    -->
+
+
+
+
+
+
+
+
+
+
+
+
