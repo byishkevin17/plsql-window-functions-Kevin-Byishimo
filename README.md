@@ -39,7 +39,47 @@
 ##ER Diagram
 ![ER Diagram](plsqlscreenshots/13_ER_Diagram.png)
 
+## Result analysis
+## 1. Descriptive-what happened
+   Top Revenue: Customer 100 (Didier) generated highest sales with consistent 40,000 RWF transactions
 
+Product Performance: Rice (40,000 RWF) and Cooking oil (17,000 RWF) are top-selling high-value items
+
+Customer Segments: Clear quartile distribution - Premium (25%), Gold (25%), Silver (25%), Bronze (25%)
+
+Sales Trend: Steady revenue growth with consistent monthly purchases across all regions
+## 2. Diagnostic – Why? 
+High-Value Drivers: Essential commodities (Rice, Cooking oil) command premium pricing vs. low-cost items (Soap, Sugar)
+
+Revenue Concentration: 60% of revenue comes from top 30% of customers indicating strong customer loyalty
+
+Purchase Patterns: 30-45 day intervals suggest monthly replenishment cycles for household essentials
+
+Regional Balance: No single region dominates, showing well-distributed customer base
+## 3  Prescriptive – What next? 
+## Immediate Actions:
+
+Launch loyalty program for Premium segment customers
+
+Increase inventory of Rice and Cooking oil based on moving average forecasts
+
+Create regional-targeted promotions for underrepresented areas
+
+## Strategic Initiatives:
+
+Expand premium product lines to increase average transaction value
+
+Implement automated re-engagement for customers with extended purchase gaps
+
+Develop product bundling strategies (Rice + Cooking oil) to boost basket size
+
+## Long-term:
+
+Establish monthly KPI reviews using window function analyses
+
+Explore geographic expansion into high-potential regions
+
+Invest in customer data platform for advanced segmentation
 
 
 ## References
