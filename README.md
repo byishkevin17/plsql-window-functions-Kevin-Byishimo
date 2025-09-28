@@ -42,6 +42,28 @@
 
 
 
+## References
+
+1. Oracle Corporation. (2025). *Oracle® Database SQL Language Reference*. https://docs.oracle.com/en/database/oracle/oracle-database
+2. Kimball, R. (2013). *The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling*. Wiley.
+3. Microsoft. (2025). *SQL Window Functions Overview*. https://learn.microsoft.com/en-us/sql/t-sql/queries/select-over-clause-transact-sql
+4. PostgreSQL Global Development Group. (2025). *Window Functions Tutorial*. https://www.postgresql.org/docs/current/tutorial-window.html
+5. IBM. (2025). *Business Intelligence for Retail*. https://www.ibm.com/analytics/retail
+6. Tableau. (2025). *Customer Segmentation with Data Visualization*. https://www.tableau.com/learn/articles/customer-segmentation
+7. McKinsey & Company. (2025). *How Retailers Can Win with Data-Driven Personalization*. https://www.mckinsey.com/industries/retail
+8. Gartner. (2025). *Customer Segmentation Strategies in Retail*. https://www.gartner.com/en/insights/retail
+9. Harvard Business Review. (2025). *Using Analytics to Improve Customer Retention*. [https://hbr.org](https://hbr.org/)
+10. SAS Institute. (2025). *Retail Analytics Solutions*. https://www.sas.com/en_us/solutions/retail.html
+11. AUCA. (2025). *Business Analytics Course Materials*. Adventist University of Central Africa (Internal Lecture Notes).
+12. Mode Analytics. (2025). *SQL Window Functions Explained*. https://mode.com/sql-tutorial/sql-window-functions/
+13. Vertabelo Academy. (2025). *SQL Window Functions Course*. https://academy.vertabelo.com/course/sql-window-functions
+14. Towards Data Science. (2025). *Customer Segmentation with SQL and Python*. [https://towardsdatascience.com](https://towardsdatascience.com/)
+15. Coursera. (2025). *Business Intelligence Concepts, Tools, and Applications* (University of Colorado). https://www.coursera.org/learn/business-intelligence-tools
+
+
+
+
+
 
 
 
