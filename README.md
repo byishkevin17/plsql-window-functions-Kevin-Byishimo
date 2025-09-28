@@ -32,12 +32,12 @@
 > **Segment customers into spending quartiles based on total purchase amount** Using NTILE(4)
 > **Compute 3-month moving average of sales for better inventory forecasting** Using AVG() OVER()
 
-![ER diagram](screenshots/01_transactions_table_has_relationship_to_all_table.png)
-<!--   ![ message ](screenshots/)    -->
+
 
 
 ## 3.   Database Schema
-
+##ER Diagram
+![ER Diagram](plsqlscreenshots/13_ER_Diagram.png)
 
 
 
@@ -59,6 +59,9 @@
 13. Vertabelo Academy. (2025). *SQL Window Functions Course*. https://academy.vertabelo.com/course/sql-window-functions
 14. Towards Data Science. (2025). *Customer Segmentation with SQL and Python*. [https://towardsdatascience.com](https://towardsdatascience.com/)
 15. Coursera. (2025). *Business Intelligence Concepts, Tools, and Applications* (University of Colorado). https://www.coursera.org/learn/business-intelligence-tools
+
+
+
 
 
 
