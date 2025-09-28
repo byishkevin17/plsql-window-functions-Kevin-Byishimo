@@ -1,12 +1,11 @@
 ## 1. Problem Definition
 
 - **Business Context:**
-    - Type: E-commerce retail company, operating in Rwanda.
-    - Department: Sales &  Marketing department, analyzing customer purchasing behavior    across regions/districts in Rwanda.
-    - Industry: Online retail (e.g., electronics, fashion, or groceries)
+-Company :CityMart Retail Store
+- Department: Sales management&Inventory
+    - Industry: Retail grocery & Household Goods
 - **Data Challenge**
-    
-    The company wants to understand which products perform best in different regions and how customer behavior evolves over time. They need insights to improve marketing and inventory decisions.
+    The store management Lacks analytical insights into sales performances across different regions and customer segments.without understanding which products are top performing in each region,how sales trends are evolving monthly, and which customers provide the most value, the store cannot optimize inventory planning or create effective targeted marketing campaigns. 
     
 - **Expected Outcome**
     
@@ -30,11 +29,14 @@
 - **Month-over-month growth percentage** → Using `LAG()`
 
 > These functions facilitate the measurement of **month-over-month growth**, highlighting performance trends and the impact of business initiatives.
->
+> **Segment customers into spending quartiles based on total purchase amount** Using NTILE(4)
+> **Compute 3-month moving average of sales for better inventory forecasting** Using AVG() OVER()
 
 ![ER diagram](screenshots/01_transactions_table_has_relationship_to_all_table.png)
 <!--   ![ message ](screenshots/)    -->
 
+
+## 3.   Database Schema
 
 
 
