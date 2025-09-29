@@ -1,3 +1,22 @@
+## Table of Contents
+
+- [Problem Definition]
+- [2. Success Criteria]
+- [Database Schema]
+- [Result analysis]
+- [References]
+- [Integrity Statement]
+  
+
+
+
+
+
+
+
+
+
+
 ## 1. Problem Definition
 
 - **Business Context:**
@@ -103,14 +122,9 @@ Invest in customer data platform for advanced segmentation
 
 
 
-## Table of Contents
-
-- [Requirement](#3)
-- [Problem Definition](#18)
-- [2. Success Criteria](#32)
-
-
-
+## Integrity statement
+I BYISHIMO Kevin I can confirm all sources were properly cited. Implementations and analysis represent original work. No AI
+generated content was copied without attribution or adaptation.
 
 
 
